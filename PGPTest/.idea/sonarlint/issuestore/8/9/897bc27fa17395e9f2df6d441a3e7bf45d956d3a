@@ -1,0 +1,13 @@
+
+e
+java:S11920"HDefine a constant instead of duplicating this literal "not set" 4 times.(¶³©‡8’…¤ü0
+7
+java:S1220""Move this file to a named package.8öÁ¤ü0
+p
+java:S2259o"NA "NullPointerException" could be thrown; "keyRingGenerator" is nullable here.(ğœÓŸøÿÿÿÿ8è…¤ü0
+c
+java:S2259F"FA "NullPointerException" could be thrown; "password" is nullable here.(‡…—â8è…¤ü0
+s
+java:S2259m"V"NullPointerException" will be thrown when invoking method "createKeyRingGenerator()".(‚ëÖ8ç…¤ü0
+£
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çëß°ûÿÿÿÿ8ë…¤ü0
